@@ -1,4 +1,4 @@
-# Project Title
+# The Flexbox way.
 
 A sample of an 'Image portfolio site.'
 Using the Flexbox way to position HTML elements with css.
